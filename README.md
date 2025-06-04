@@ -13,7 +13,8 @@ In this project, we fine-tune a Resnet18 model on the [FER2013 dataset](https://
 - Samuel Gali
 - Abdul Ahmed Abdul 
 - Muhammad Saleh Ibrahim
-- Zeera Baidu
+- Zarau Baidu
+- Abdulhafiz Umar Dabo
 
 
 ## Dataset
